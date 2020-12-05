@@ -1,0 +1,1 @@
+cmd_/home/trangtong/Desktop/Simple_Kernel/Simple_Kernel/Random.mod := { echo  /home/trangtong/Desktop/Simple_Kernel/Simple_Kernel/Random.o; echo; } > /home/trangtong/Desktop/Simple_Kernel/Simple_Kernel/Random.mod
