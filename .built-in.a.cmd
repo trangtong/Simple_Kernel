@@ -1,1 +1,0 @@
-cmd_/home/trangtong/Desktop/Simple_Kernel/Simple_Kernel/built-in.a := rm -f /home/trangtong/Desktop/Simple_Kernel/Simple_Kernel/built-in.a; ar cDPrST /home/trangtong/Desktop/Simple_Kernel/Simple_Kernel/built-in.a 
