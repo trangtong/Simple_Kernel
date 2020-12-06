@@ -7,8 +7,7 @@ Random a number and read it in user space
 3. Kiểm tra module cài đặt chưa: lsmod
 4. Biên dịch file test.c: gcc test.c -o test
 5. Chạy file test: sudo ./test
-6. Kiểm tra số phát sinh: dmesg
-7. Remove module: sudo rmmod Random.ko
+6. Remove module: sudo rmmod Random.ko
 
 # Explain code
 static unsigned int randomResult;
